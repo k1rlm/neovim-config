@@ -1,5 +1,5 @@
 <h1 align='center'> Simple config for neovim</h1>
-<h3>I used some plugins for customize my neovim: </h3>
+<h3>I used some plugins to customize my neovim: </h3>
 <h3 align='center'>vim-airline</h3>
 <h3 align='center'>vim-css-color</h3>
 <h3 align='center'>awesome-vim-colorschemes</h3>
