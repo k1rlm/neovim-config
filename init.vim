@@ -19,7 +19,6 @@ set encoding=UTF-8
 :set omnifunc=javascriptcomplete#CompleteJS
 :set omnifunc=htmlcomplete#CompleteTags
 :set omnifunc=csscomplete#CompleteCSS
-:set omnifunc=javacomplete#CompleteJava
 :set completeopt-=preview
 
 call plug#end()
